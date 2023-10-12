@@ -1,7 +1,7 @@
 {
     "name": "LOFI-MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/2e947001d97ad47603871.jpg",
+    "logo": "https://te.legra.ph/file/f8edac5712e827f8fe44c.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -13,7 +13,7 @@
     ],
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "Get this value from https://my.telegram.org bsdk sahi api dalna",
         "value": "",
         "required": true
       },
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "6540170882",
         "required": true
       },
       "STRING_SESSION": {
@@ -53,7 +53,7 @@
         "required": false
       },
       "LOGGER_ID": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk or log gp ka vc on kar pahle jake lowdw.",
         "value": "",
         "required": true
       }
